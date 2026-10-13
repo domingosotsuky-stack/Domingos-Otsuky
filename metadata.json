@@ -1,0 +1,8 @@
+{
+  "name": "Remix Five IA - Plataforma de IA e Banco de Dados PostgreSQL",
+  "description": "Plataforma de inteligência artificial Five IA com geração de imagens e vídeos, assistente conversacional, Five Coins, validação de NIF angolano, pagamentos Multicaixa e esquema completo PostgreSQL por OTsUkY FiVe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
